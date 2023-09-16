@@ -1,4 +1,4 @@
-# Pizza_Sales
+# Pizza Sales
 
 ## Overview
 This project is aimed at analyzing pizza sales data using SQL and Excel. The dataset contains information about pizza sales, including customer details, order dates, pizza types, quantities, and prices. By combining the power of SQL for data querying and Excel for data visualization, you will gain valuable insights into your pizza sales business.
